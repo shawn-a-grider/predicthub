@@ -65,5 +65,4 @@ def principal_component_analysis(markets: pd.DataFrame) -> pd.DataFrame:
     })
 
     return pca_frame
-
     
